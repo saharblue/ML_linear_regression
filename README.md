@@ -29,13 +29,6 @@ Clone this repository to your machine to get started:
 git clone https://github.com/your_username/ML_linear_regression.git
 ```
 
-Next, navigate to the project directory and install the necessary dependencies:
-
-```
-cd ML_linear_regression
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. Load your dataset: This implementation uses a CSV file as an example of a dataset. You can replace this file with your own CSV data. Ensure that your CSV file is in the correct format and placed in the right directory.
@@ -43,11 +36,11 @@ pip install -r requirements.txt
 2. Train the model: Run the Python file `hw1.py` to train the model on your dataset.
 
 ```python
-python linear_regression.py
+python hw1.py
 ```
 
 3. Test and visualize: Open the provided Jupyter notebook (`hw1.ipynb`) to run tests and visualize the model performance. You can view the notebook by using the following command:
 
 ```bash
-jupyter notebook visualization.ipynb
+jupyter notebook hw1.ipynb
 ```
