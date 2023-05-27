@@ -7,8 +7,6 @@ This repository contains an implementation of a linear regression model used for
 1. [Requirements](#requirements)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Requirements
 
@@ -26,7 +24,7 @@ Additionally, you'll need to have software installed to run and execute a [Jupyt
 Clone this repository to your machine to get started:
 
 ```
-git clone https://github.com/your_username/ML_linear_regression.git
+git clone https://github.com/saharblue/ML_linear_regression.git
 ```
 
 ## Usage
